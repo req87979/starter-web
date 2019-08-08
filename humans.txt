@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Deby Green -- Automation Developer -- debra.green@mutualofomaha.com
 
 # THANKS
 
