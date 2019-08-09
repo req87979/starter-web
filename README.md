@@ -20,4 +20,4 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ## Copyright
 
-Git.Training.2014
+2014 Git.Training.All rights reserved
